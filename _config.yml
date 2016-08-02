@@ -9,38 +9,38 @@ description: "Write an awesome description for your new site here. You can edit 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Thiago Genez
   pic: 1
-  position: Lead Designer
+  position: Doutorando (PED)
   social:
     - title: twitter
       url: #
     - title: facebook
       url: #
-    - title: stack-overflow
-      url: #
+    - title: envelope
+      url: thiagogenez@ic.unicamp.br
 
-- name: Larry Parker
+- name: Murilo de Lima
   pic: 2
-  position: Lead Marketer
+  position: Doutorando (PED)
   social:
     - title: twitter
       url: #
     - title: facebook
       url: #
-    - title: linkedin
+    - title: envelope
       url: #
 
-- name: Diana Petersen
+- name: Gabriel Lopes
   pic: 3
-  position: Lead Developer
+  position: Graduando (PAD)
   social:
     - title: twitter
       url: #
     - title: facebook
       url: #
-    - title: google-plus
-      url: #
+    - title: envelope
+      url: g135801@dac.unicamp.br
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
