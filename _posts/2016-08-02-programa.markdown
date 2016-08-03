@@ -1,9 +1,9 @@
 ---
-title: Escape
-subtitle: Website Design
+title: Programa da disciplina
+subtitle: Ementa e Bibliografia
 layout: default
 modal-id: 2
-date: 2014-07-17
+date: 2016-08-02
 img: escape.png
 thumbnail: escape-thumbnail.png
 alt: image-alt

@@ -1,13 +1,11 @@
 ---
-title: Startup Framework
-subtitle: Website Design
+title: Regras
+subtitle: Informações e Referências
 layout: default
-modal-id: 5
-date: 2014-07-14
-img: startup-framework.png
-thumbnail: startup-framework-thumbnail.png
+modal-id: 1
+date: 2016-08-02 12:00:00
 alt: image-alt
-project-date: April 2014
+project-date: 02 de Agosto de 2016
 client: Start Bootstrap
 category: Web Development
 description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
