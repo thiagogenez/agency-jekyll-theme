@@ -1,13 +1,12 @@
 ---
-title: Regras
+title: Regras da Disciplina 
 subtitle: Informações e Referências
 layout: default
 modal-id: 1
 date: 2016-08-02 12:00:00
 alt: image-alt
-project-date: 02 de Agosto de 2016
-client: Start Bootstrap
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
-
+description: Informações sobre o programa da disciplina MC102, linguagem de programação, horários de atendimento, avaliações, data das provas, etc.
+file: /files/informacoesTurmaZ.pdf
+file-description: Arquivo Informativo
 ---
