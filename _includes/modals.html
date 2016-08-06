@@ -17,11 +17,15 @@
                             <p>{{ post.description }}</p>
                             
                             <ul class="list-inline item-details">
-                                <li>Download:
-                                    <strong><a href="{{ post.file | prepend: site.baseurl }}" download>{{ post.file-description }}</a>
+                                <li>
+                                {% if post.file-description %}
+                                   Download: <strong><a href="{{ post.file | prepend: site.baseurl }}" download>{{ post.file-description }}</a></strong>
+                                {% else %}
+                                   Turma MC102z no SuSy: <strong><a href="{{ post.link }}" target="_blank">{{ post.link-description }} </a></strong>
 
-                                    </strong>
+                                {% endif %}
                                 </li>
+                                
                                 <!--<
                                 <li>Date:
                                     <strong><a href="http://startbootstrap.com">{{ post.project-date }}</a>

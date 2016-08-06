@@ -4,8 +4,6 @@ subtitle: Informações e Referências
 layout: default
 modal-id: 1
 date: 2016-08-02 12:00:00
-alt: image-alt
-category: Web Development
 description: Informações sobre o programa da disciplina MC102, linguagem de programação, horários de atendimento, avaliações, data das provas, etc.
 file: /files/informacoesTurmaZ.pdf
 file-description: Arquivo Informativo
