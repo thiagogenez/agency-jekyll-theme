@@ -13,34 +13,22 @@ people:
   pic: 1
   position: Doutorando (PED)
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
     - title: envelope
-      url: thiagogenez@ic.unicamp.br
+      email: thiagogenez@ic.unicamp.br
 
 - name: Murilo de Lima
   pic: 2
   position: Doutorando (PED)
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
     - title: envelope
-      url: #
+      email: ra137105@ic.unicamp.br
 
 - name: Gabriel Lopes
   pic: 3
   position: Graduando (PAD)
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
     - title: envelope
-      url: g135801@dac.unicamp.br
+      email: g135801@dac.unicamp.br
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:

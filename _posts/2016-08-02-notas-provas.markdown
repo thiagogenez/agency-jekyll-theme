@@ -2,14 +2,11 @@
 title: Datas Importantes
 subtitle: P1, P2 e Exames
 layout: default
-modal-id: 3
-date: 2014-08-12
-img: treehouse.png
-thumbnail: treehouse-thumbnail.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Prova 1: 11/out/2016 | Prova 2: 13/dez/2016 | Exame: 22/dez/2016
-
+modal-id: 4
+date: 2014-08-12 12:00:00
+description: Prova 1 11/out/2016  Prova 2 13/dez/2016  Exame 22/dez/2016
+file: 
+file-description: 
+link: 
+link-description: 
 ---

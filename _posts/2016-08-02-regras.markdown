@@ -7,4 +7,6 @@ date: 2016-08-12 12:00:00
 description: Informações sobre o programa da disciplina MC102, linguagem de programação, horários de atendimento, avaliações, data das provas, etc.
 file: /files/informacoesTurmaZ.pdf
 file-description: Arquivo Informativo
+link: 
+link-description: 
 ---
