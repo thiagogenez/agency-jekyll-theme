@@ -1,0 +1,12 @@
+---
+title: Aviso
+subtitle:  teste
+layout: default
+modal-id: aviso
+date: 2016-08-13 12:00:00
+description: Esta página não é uma publicação oficial do Instituto de Computação (IC) ou da Universidade Estadual de Campinas (Unicamp), seu conteúdo não foi examinado e/ou editado por estas instituições. <br>A responsabilidade por seu conteúdo é exclusivamente do autor.
+file: 
+file-description: 
+link: 
+link-description: 
+---
