@@ -1,5 +1,5 @@
 ---
-title: Link para o site oficial MC102
+title: Link para o Site oficial MC102
 subtitle: Site oficial da disciplina
 layout: default
 modal-id: 2
