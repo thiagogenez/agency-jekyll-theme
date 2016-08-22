@@ -14,6 +14,10 @@ body {
     #{{ site.data.template.color.muted }};
 }
 
+.text-attention {
+   color: red;
+}
+
 .text-primary {
     color: #{{ site.data.template.color.primary }};
 }
