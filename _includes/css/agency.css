@@ -18,6 +18,10 @@ body {
    color: red;
 }
 
+.text-non-muted {
+   color: black;
+}
+
 .text-primary {
     color: #{{ site.data.template.color.primary }};
 }
