@@ -8,5 +8,5 @@ description: Configuração do Code::Blocks para compilar o seu programa de acor
 file: /files/config_codeblocks.pdf
 file-description: Clique aqui para baixar o manual de configuração do Code::Blocks
 link: 
-link-description-1: 
+link-description: 
 ---
