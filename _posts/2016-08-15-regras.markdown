@@ -3,7 +3,7 @@ title: Arquivo Informativo
 subtitle: Regras da Disciplina
 layout: default
 modal-id: 4
-date: 2016-08-26 12:00:00
+date: 2016-09-02 12:00:00
 description: Informações sobre o programa da disciplina MC102, a linguagem de programação adotada, os horários de atendimento, as avaliações, as data das provas, o cálculo das notas, e observações gerais etc.
 file: /files/informacoesTurmaZ.pdf
 file-description: Clique Aqui para acessar o Arquivo Informativo
