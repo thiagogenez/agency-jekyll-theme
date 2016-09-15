@@ -24,19 +24,16 @@
                                    <strong><a href="{{ post.link }}" target="_blank">{{ post.link-description }} </a></strong>
 
                                 {% endif %}
+                             </ul>
+                             <ul class="list-block item-details">
                                 </li>
-                                
-                                <!--<
-                                <li>Date:
-                                    <strong><a href="http://startbootstrap.com">{{ post.project-date }}</a>
-                                    </strong>
-                                </li>
-                                li>Service:
-                                    <strong><a href="http://startbootstrap.com">{{ post.category }}</a>
-                                    </strong>
-                                </li>
-                                -->
+                                {% if post.listas %}
+                                    {% for lista in (1..post.listas) %}
+                                       <li> <strong><a href="{{ site.baseurl }}/files/lista{{ lista }}.pdf" target="_blank">Lista {{ lista }} </a></strong> </li> 
+                                    {% endfor %}
+                                {% endif %}
                             </ul>
+                           
                             
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
 
