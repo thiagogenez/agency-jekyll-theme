@@ -1,6 +1,6 @@
 ---
 title: Lista de Exercícios
-subtitle: Listas 1 e 2
+subtitle: Listas 1 - 5
 layout: default
 modal-id: 8
 date: 2016-10-05 12:00:00
