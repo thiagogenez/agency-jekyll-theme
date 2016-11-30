@@ -1,13 +1,13 @@
 ---
 title: Lista de Exercícios
-subtitle: Listas 1 - 7
+subtitle: Listas 1 - 8
 layout: default
 modal-id: 8
-date: 2016-11-17 12:00:00
+date: 2016-11-30 12:00:00
 description: Download das listas de exercícios
 file:
 file-description:
 link: 
 link-description:
-listas: 7
+listas: 8
 ---
